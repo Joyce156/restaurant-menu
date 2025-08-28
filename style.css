@@ -1,0 +1,28 @@
+body{
+align-items: center;
+margin: 20px;
+text-align:center;
+}
+
+
+h1{
+color: blueviolet;
+text-align: center;
+font-style: italic;
+}
+h2{
+background-color: beige;
+text-align: center;
+
+}
+.special{
+font-size: medium;
+font-style: oblique;
+
+margin: 0 auto;
+}
+.spicy{
+font-weight:bold;
+
+
+}
