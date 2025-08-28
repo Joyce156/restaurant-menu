@@ -2,6 +2,7 @@ body{
 align-items: center;
 margin: 20px;
 text-align:center;
+background-color: rgb(210, 231, 250);
 }
 
 
@@ -24,5 +25,9 @@ margin: 0 auto;
 .spicy{
 font-weight:bold;
 
+
+}
+li:hover{
+background-color: aqua;
 
 }
