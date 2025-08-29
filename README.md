@@ -1,5 +1,6 @@
-This is a Restaurant menu page
+This is a Restaurant menu page.
 It contains the main type of food sold in Bite and Sip Restaurant.
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,3 +34,4 @@ It contains the main type of food sold in Bite and Sip Restaurant.
     </ul>
 </body>
 </html>
+```
