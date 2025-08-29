@@ -1,6 +1,8 @@
 This is a Restaurant menu page.
 It contains the main type of food sold in Bite and Sip Restaurant.
+
 ```
+   html
 <!DOCTYPE html>
 <html lang="en">
 <head>
