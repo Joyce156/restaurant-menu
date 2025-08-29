@@ -2,32 +2,47 @@ body{
 align-items: center;
 margin: 20px;
 text-align:center;
-background-color: rgb(210, 231, 250);
+background-color: white;
+
 }
 
 
 h1{
-color: blueviolet;
+color: black;
 text-align: center;
 font-style: italic;
+font-size: 90px;
 }
 h2{
 background-color: beige;
 text-align: center;
+font-size: 30px;
 
 }
 .special{
-font-size: medium;
+font-size: 20px;
 font-style: oblique;
 
 margin: 0 auto;
 }
 .spicy{
 font-weight:bold;
-
+font-size: 20px;
 
 }
 li:hover{
 background-color: aqua;
+
+}
+img{
+    width: 200px;
+}
+ul{
+padding: 0;
+list-style-type: none;
+
+}
+footer{
+background-color: rgb(197, 59, 59);
 
 }
